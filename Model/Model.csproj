@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ZLSoft.QWPlatform.DBServiceCore">
+      <HintPath>..\..\..\..\..\.NetWeb\Dlls\ZLSoft.QWPlatform.DBServiceCore.dll</HintPath>
+    </Reference>
+    <Reference Include="ZLSoft.RIP.Basics">
+      <HintPath>..\..\NewCode\bin\Debug\netcoreapp3.0\ZLSoft.RIP.Basics.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
